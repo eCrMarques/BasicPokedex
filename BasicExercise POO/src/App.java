@@ -88,7 +88,7 @@ class Celular {
         this.abaAtual=this.Navegador.get(0);
     }
 }
-class main {
+class App {
     public static void main(String[] args) {
         Celular Iphone = new Celular();
         
