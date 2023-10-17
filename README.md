@@ -1,0 +1,3 @@
+# BasicPokedex
+Pokedex Basica
+
