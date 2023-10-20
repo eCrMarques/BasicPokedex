@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #21D4FD;
+    background-image: linear-gradient(270deg, #21D4FD 0%, #232cf1 25%, #050733 97%);
+    
+}
